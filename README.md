@@ -22,6 +22,7 @@ Para rodar o projeto, siga os passos abaixo:
 ```bash
 npm install
 npm run dev
+```
 ## Contribuição
 Este é um projeto desenvolvido principalmente para fins educacionais e estudo de habilidades técnicas. Contribuições são bem-vindas, especialmente aquelas que ajudam a melhorar a estrutura ou adicionar novas funcionalidades.
 
